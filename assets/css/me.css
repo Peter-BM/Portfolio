@@ -1,0 +1,20 @@
+.me { 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 10vh 2vw;
+    margin: 0 100px
+}
+
+.me__item { 
+    padding: 1.5rem 0;
+}
+
+.me__greetings  { 
+    font-size: 100px;
+
+}
+
+.me__description { 
+    font-size: 25px;
+    text-align: start;
+}

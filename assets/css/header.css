@@ -1,0 +1,26 @@
+.portfolio__header { 
+    display: flex; 
+    padding: 3rem 10rem;
+    background-color: var(--header-color);
+    opacity: 0.7;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.portfolio__header-title { 
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.portfolio__nav-list { 
+    display: flex;
+    opacity: 1;
+}
+
+.portfolio__nav-item { 
+    margin-left: 25px;
+    font-weight: 700;
+    font-size: 25px;
+}
