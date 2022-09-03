@@ -8,6 +8,7 @@
     --white: #fff;
     --black: #000; 
     --header-color: #201e1e; 
+    --transition-color: #151515;
     --background-color: linear-gradient( 76.3deg,  rgba(44,62,78,1) 12.6%, rgba(69,103,131,1) 82.8% );
     --standart-font: 'Roboto Slab', sans-serif; 
 }
