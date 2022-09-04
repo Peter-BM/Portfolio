@@ -6,6 +6,7 @@
     position: relative;
     justify-content: space-between;
     align-items: center;
+    height: 2.5rem;
 
 }
 
@@ -23,4 +24,15 @@
     margin-left: 25px;
     font-weight: 700;
     font-size: 25px;
+}
+
+.portifolio__link {
+
+    transition: 300ms;
+}
+
+.portifolio__link:hover { 
+    font-size: 30px;
+    margin: 0 5px;
+    transition: 300ms;
 }
