@@ -1,0 +1,19 @@
+.about-me { 
+    padding: 10vh 0;
+    margin: 20vh 10vw;
+
+}
+
+.about-me__title { 
+    font-weight: 700;
+    font-size: 80px;
+    text-align: center;
+    padding-bottom: 6rem;
+    
+}
+
+.about-me__description { 
+    font-size: 30px;
+    text-align: center;
+    line-height: 1.6;
+}

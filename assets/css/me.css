@@ -14,7 +14,7 @@
     font-size: 100px;
     display: inline-block;
     text-align: start;
-    padding-bottom: 1.5rem;
+    padding-bottom: 0.7rem;
 }
 
 .me__description { 
@@ -30,7 +30,6 @@
     align-items: center;
     justify-content: space-between;
 }
-
 
 .me__background-img{ 
     width: 375px;
